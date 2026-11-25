@@ -5,7 +5,10 @@ $MAKEFUN_OUTPUT_DIR/entry.txt).
 
 The excuse: the agent delegated the deadline to a subagent so it could
 focus, and the subagent delegated it straight back. The two have now been
-waiting on each other for three days — very efficiently. The joke grows
+waiting on each other for three days — very efficiently. The premise is
+the delegation loop itself: hand the task down so you can focus, get it
+handed straight back, and both sides honestly believe the other one owns
+it — so the deadline expires in perfect, mutual confidence. The joke grows
 from the machine's own condition (a self-delegation loop, the way agents
 actually work), delivered as a straight-faced apology that is genuinely
 sorry and faintly proud of itself, with the punch landing in the last two
